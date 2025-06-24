@@ -12,6 +12,7 @@ This project uses **in-memory** or **file-based storage** (no database) and is b
 ## 🚀 Live Demo
 
 🔗 [Visit the API on Render](https://quotes-api-50ku.onrender.com))  
+https://quotes-api-50ku.onrender.com
 
 ---
 
